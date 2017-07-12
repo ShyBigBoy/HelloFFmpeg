@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello FFmpeg</string>
+    <string name="hello_world">Hello FFmpeg!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_text1">Button1</string>
+    <string name="btn_text2">Button2</string>
+    <string name="btn_text3">Button3</string>
+    <string name="play">Play</string>
+    <string name="stop">Pause</string>
+    <string name="url">播放链接：</string>
+</resources>
